@@ -20,11 +20,12 @@ export const AboutSection = () => {
           </p>
 
           <p className="text-muted-foreground">
-            I have successfully completed internship at CloudGrep, where I optimized full-stack features for a Firecracker VM orchestration platform using Next.js, Go, and MongoDB. 
-            During this time, I significantly improved system performance and deployment efficiency, and gained deep experience in API integration, real-time communication, and cloud-native development.My technical stack includes React.js, Node.js, MongoDB, Go, WebSockets, and Tailwind CSS, along with a solid foundation in system design, DSA, and computer networks. 
-            I have solved 1000+ problems across various coding platforms and consistently apply algorithmic thinking in my development process.
-            My journey has been driven by a passion for learning, creating impactful solutions, and contributing to the tech community.
-          </p>
+            I have successfully completed internship at CloudGrep, where I Developed RESTful APIs using Next.js, Node.js, and MongoDB, focusing on efficient query optimization, error handling,
+and secure data operations.
+ Implemented JWT authentication and role-based access control to enhance application security and user management.
+ Achieved a 25% reduction in page load times through server-side caching and asynchronous data handling with Promises.
+Boosted frontend performance by 35% using React Hooks, lazy loading, and memoization.
+           </p>
 
           <p className="text-muted-foreground">
             When I'm not coding, I enjoy watching movies,and playing sports like cricket and carrom. 
